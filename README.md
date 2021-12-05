@@ -15,8 +15,8 @@
  
  # References
  
- Media by [YouTube] (https://www.youtube.com/watch?v=asOw_NRdKTQ&t=100s)
+ Media by [YouTube](https://www.youtube.com/watch?v=asOw_NRdKTQ&t=100s)
  
  
-  Code by [website] (https://github.com/Virajbhise/Brick-Breaker-Game/blob/main/src/MapGenerator.java)
+  Code by [website](https://github.com/Virajbhise/Brick-Breaker-Game/blob/main/src/MapGenerator.java)
 
